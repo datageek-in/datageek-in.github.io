@@ -6023,7 +6023,7 @@ Home Page Six Css End
 
 .flip-card {
   background-color: transparent;
-  width: 362px;
+  /* width: 362px; */
   height: 300px;
   perspective: 1000px;
 }
